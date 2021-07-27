@@ -9,5 +9,5 @@ author: admin
 design:
   background:
     text_color_light: false
-    image: jaeseok-cho.png
+    image: ""
 ---
