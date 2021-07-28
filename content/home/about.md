@@ -2,7 +2,7 @@
 widget: about
 widget_id: Photo
 headless: true
-weight: 45
+weight: 20
 title: Hello!
 active: true
 author: admin
