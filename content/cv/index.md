@@ -8,9 +8,10 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
+{{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}.
+
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
   image: ""
 ---
-{{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}.
