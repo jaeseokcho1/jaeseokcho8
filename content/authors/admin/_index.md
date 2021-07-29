@@ -27,6 +27,6 @@ superuser: true
 highlight_name: false
 ---
 
-I am a PhD Candidate in International Relations at University of Illinois at Urbana-Champaign. My research 
+I am a PhD Candidate in International Relations at University of Illinois at Urbana-Champaign. My research focuses
 
 
