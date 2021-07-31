@@ -2,12 +2,11 @@
 title: Jaeseok Cho
 role: PhD Candidate
 avatar_filename: avatar.png
-bio: My research interests include civil wars, interstate conflicts, and
-  international cooperation
+bio: 
 interests:
   - Civil Wars
   - Interstate Conflicts
-  - International Cooperation
+  - International Institutions
 social:
  
   - icon: linkedin
@@ -27,6 +26,10 @@ superuser: true
 highlight_name: false
 ---
 
-I am a PhD Candidate in International Relations at University of Illinois at Urbana-Champaign. My research 
+I am a PhD Candidate in International Relations at the University of Illinois at Urbana-Champaign. 
+
+I am interested in civil wars, international conflicts, and international institutions, with a focus on factors related to civil war recurrence. I am currently working on a project that explores the relationship between granting amnesty and the durability of civil war power-sharing agreements. 
+
+In addition to the topics mentioned above, I am also interested in data generated from social networks. My other current project examines the relationship between individuals’ Twitter usage and their political ideology using Congressional Twitter data.  
 
 
