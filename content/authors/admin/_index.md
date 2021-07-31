@@ -9,9 +9,7 @@ interests:
   - International Institutions
 social:
  
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+ 
 organizations:
   - name: University of Illinois at Urbana-Champaign
     url: https://pol.illinois.edu/
