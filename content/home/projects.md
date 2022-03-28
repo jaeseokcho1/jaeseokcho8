@@ -13,7 +13,7 @@ weight = 57
 
 +++
 
-_[Introduction to International Relations](url: uploads/Jaeseok_Cho__CV.pdf)_
+_[Introduction to International Relations]({{% staticref "uploads/Sample Syllabus_Jaeseok Cho.pdf" "newtab" %}}Download my CV{{% /staticref %}})_
 
 
 
