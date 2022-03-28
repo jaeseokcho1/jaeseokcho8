@@ -10,9 +10,9 @@ main:
   - name: CV
     url: uploads/Jaeseok_Cho__CV.pdf
     weight: 20
-- name: Teaching
-   url: uploads/Sample Syllabus_Jaeseok Cho.pdf
-   weight: 30
+  - name: Teaching
+    url: uploads/Sample Syllabus_Jaeseok Cho.pdf
+    weight: 30
   
  
 
