@@ -13,7 +13,7 @@ weight = 57
 
 +++
 
-_[Introduction to International Relations](https://github.com/jaeseokcho1/jaeseokcho8/blob/master/static/uploads/Sample%20Syllabus_Jaeseok%20Cho.pdf)_
+_[Introduction to International Relations](url: uploads/Jaeseok_Cho__CV.pdf)_
 
 
 
