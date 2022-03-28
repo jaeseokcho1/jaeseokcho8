@@ -14,7 +14,7 @@ main:
     url: uploads/Sample Syllabus_Jaeseok Cho.pdf
     weight: 20
   - name: Projects
-    url: '#publications'
+    url: '#projects'
     weight: 30
   
  
