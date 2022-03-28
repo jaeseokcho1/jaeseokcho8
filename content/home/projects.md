@@ -13,5 +13,5 @@ weight = 57
 
 +++
 
-Introduction to International Relations (uploads/Jaeseok_Cho__CV.pdf)_
+Introduction to International Relations (uploads/Sample Syllabus_Jaeseok Cho.pdf)
 
