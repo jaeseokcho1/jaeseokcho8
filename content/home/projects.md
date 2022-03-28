@@ -13,5 +13,5 @@ weight = 57
 
 +++
 
-Introduction to International Relations (https://linguistics.uoregon.edu/)_
+Introduction to International Relations (uploads/Jaeseok_Cho__CV.pdf)_
 
