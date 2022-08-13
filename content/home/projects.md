@@ -19,7 +19,7 @@ weight = 57
 <h2>University of Illinois at Urbana Champaign</h2>
 
 + Introduction to Political Science _[Syllabus](uploads/PS100.pdf)_
-+ Introduction to International Relations _[Syllabus](Sample Syllabus_Jaeseok Cho.pdf)_
++ Introduction to International Relations _[Syllabus](uploads/Sample Syllabus_Jaeseok Cho.pdf)_
 
 
 
