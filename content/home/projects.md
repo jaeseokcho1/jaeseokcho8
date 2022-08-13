@@ -18,12 +18,7 @@ weight = 57
 +++
 <h2>University of Illinois at Urbana Champaign</h2>
 
-+ Intro. to Academic Writing, AEIS 110 – Instructor of Record (Spring ‘14)
-+ Intro. to Academic Writing, AEIS 110 – Instructor of Record (Fall ‘13)
-
-
-
-_[Summer Institute of Linguistics Program](https://arts-sciences.und.edu/summer-institute-of-linguistics/)_
++_[Introduction to Political Science](uploads/PS100.pdf)_
 
 
 
