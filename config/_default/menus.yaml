@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: CV
-    url: uploads/CV_20220814.pdf
+    url: uploads/CV_20220814-2.pdf
     weight: 20
   - name: Teaching
     url: '#projects'
