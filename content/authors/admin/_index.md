@@ -7,6 +7,9 @@ interests:
   - Civil Wars
   - Interstate Conflicts
   - International Institutions
+  - Quantitative Methodology
+  - East Asia
+  
 social:
  
  
@@ -28,6 +31,7 @@ I am a PhD Candidate in International Relations at the University of Illinois at
 
 I am interested in civil wars, international conflicts, and international institutions, with a focus on factors related to civil war recurrence. I am currently working on a project that explores the relationship between granting amnesty and the durability of civil war power-sharing agreements. 
 
-In addition to the topics mentioned above, I am also interested in data generated from social networks. My other current project examines the relationship between individuals’ Twitter usage and their political ideology using Congressional Twitter data.  
+I am also interested in data generated from social networks, which examines the relationship between individuals’ Twitter usage and their political ideology using Congressional Twitter data.  
 
+Regionally, I am interested in East Asia. My other current project examines the relationship between foreign aid and the probability of interstate conflicts using the case of territorial disputes in the South China Sea.
 
