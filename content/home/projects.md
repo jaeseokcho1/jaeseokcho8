@@ -38,7 +38,7 @@ weight = 57
 **Sample Syllabi**
 
 + Introduction to International Relations _[Syllabus](uploads/PS280.pdf)_
-
++ Introduction to Political Research _[Syllabus](uploads/PS230_Syllabus.pdf)_
 
 
 
