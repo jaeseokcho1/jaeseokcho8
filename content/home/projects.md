@@ -39,7 +39,7 @@ weight = 57
 
 + Introduction to International Relations _[Syllabus](uploads/PS280.pdf)_
 + Introduction to Political Research _[Syllabus](uploads/PS230_Syllabus.pdf)_
-
++ Interstate Conflicts _[Syllabus](uploads/PS396.pdf.pdf)_
 
 
 
