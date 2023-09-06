@@ -1,6 +1,6 @@
 ---
 title: Jaeseok Cho
-role: PhD Candidate
+role: Visiting Assistant Teaching Professor of Government
 avatar_filename: avatar.png
 bio: 
 interests:
@@ -27,7 +27,7 @@ superuser: true
 highlight_name: false
 ---
 
-I am a PhD Candidate in International Relations at the University of Illinois at Urbana-Champaign. 
+I am a Visiting Assistant Teaching Professor of Government at William and Mary. I received my Ph.D. degree in Political Science at the University of Illinois at Urbana-Champaign. 
 
 I am interested in civil wars, international conflicts, and international institutions, with a focus on factors related to civil war recurrence. I am currently working on a project that explores the relationship between granting amnesty and the durability of civil war power-sharing agreements. 
 
