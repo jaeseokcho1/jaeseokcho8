@@ -14,8 +14,8 @@ social:
  
  
 organizations:
-  - name: University of Illinois at Urbana-Champaign
-    url: https://pol.illinois.edu/
+  - name: William & Mary
+    url: https://www.wm.edu/as/government/faculty-directory/
 education:
   courses:
     - course: MA in Political Science
